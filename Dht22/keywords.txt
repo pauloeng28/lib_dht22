@@ -1,0 +1,12 @@
+# Syntax Coloring Map For dht22
+
+# Datatypes (KEYWORD1)
+
+dht22		KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+	
+dht22Data	KEYWORD2
+Temp		KEYWORD2
+Hum		KEYWORD2
+MsgError	KEYWORD2
